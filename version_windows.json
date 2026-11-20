@@ -1,0 +1,20 @@
+{
+  "platform": "windows",
+  "version": "1.0.0",
+  "build_number": 1,
+  "windows_build_number": 1,
+  "release_date": "November 2026",
+  "title": "UNIQON Restaurant POS • Windows Desktop Release v1.0.0",
+  "highlights": [
+    "High-speed Restaurant POS billing for Dine-In, Takeaway, and Counter orders.",
+    "Integrated 80mm & 58mm TVS Thermal Printer support with Direct Silent Printing.",
+    "Dynamic UPI QR code generation on bill slips for instant Google Pay / PhonePe payments.",
+    "Smart Global Search across all menu categories with Item Code (#101) & Dish Name instant lookup.",
+    "Tamil & English bilingual dish receipts with offline auto-translation.",
+    "Offline SQLite database with automatic daily closing backup protection.",
+    "Secure Node-Lock machine hardware licensing."
+  ],
+  "download_url": "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
+  "exe_download_url": "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
+  "is_mandatory": false
+}
