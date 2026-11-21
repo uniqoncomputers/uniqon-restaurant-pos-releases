@@ -3,17 +3,17 @@
     "build_number":  1,
     "platform":  "windows",
     "version":  "1.0.0",
-    "release_date":  "November 2026 (Final Release)",
+    "release_date":  "November 2026 (Final Production Release)",
     "download_url":  "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
     "highlights":  [
-                       "Swiggy \u0026 Zomato Online Delivery partner orders with Online Order ID tracking.",
+                       "Billing Pro Android style animated splash loading screen with UNIQON logo.",
+                       "ESC key exit confirmation dialog with automatic closing safety backup.",
+                       "Swiggy \u0026 Zomato toggle in Settings to keep billing screen clean and spacious.",
+                       "Online Order ID tracking with non-cash accounting for delivery partners.",
                        "Mouse Right-Click item quantity decrement (-1) and instant cart management.",
                        "Day-End Closing (Z-Report) date picker and historical sales calendar navigation.",
-                       "Thermal Z-Slip and Excel (CSV) export for any past date.",
                        "Motherboard-locked persistent offline hardware licensing (survives OS formats).",
-                       "TVS, Epson, Honeywell ESC/POS 80mm \u0026 58mm direct silent thermal printing.",
-                       "Dynamic UPI QR code generation on bill slips for instant Google Pay / PhonePe payments.",
-                       "Smart Global Search across all categories with item code and bilingual Tamil support."
+                       "Universal 80mm \u0026 58mm silent thermal printing with Dynamic UPI QR code."
                    ],
     "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
     "windows_build_number":  1,
