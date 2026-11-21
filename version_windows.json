@@ -13,7 +13,8 @@
                        "Mouse Right-Click item quantity decrement (-1) and instant cart management.",
                        "Day-End Closing (Z-Report) date picker and historical sales calendar navigation.",
                        "Motherboard-locked persistent offline hardware licensing (survives OS formats).",
-                       "Calibrated 80mm thermal receipt printing for TVS RP 3230, eliminating cutoff and balancing margins with Dynamic UPI QR code."
+                       "Calibrated 80mm thermal receipt printing for TVS RP 3230, eliminating cutoff and balancing margins with Dynamic UPI QR code.",
+                       "Automatic Windows Defender exclusion, firewall whitelisting, and third-party antivirus protection guide."
                    ],
     "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
     "windows_build_number":  1,
