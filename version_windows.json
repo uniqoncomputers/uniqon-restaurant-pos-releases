@@ -14,6 +14,7 @@
                        "Day-End Closing (Z-Report) date picker and historical sales calendar navigation.",
                        "Motherboard-locked persistent offline hardware licensing (survives OS formats).",
                        "Calibrated 80mm thermal receipt printing for TVS RP 3230, eliminating cutoff and balancing margins with Dynamic UPI QR code.",
+                       "Flawless Tamil script thermal printing with HarfBuzz ligature rendering (டி, ரை, முழு, ணி).",
                        "Automatic Windows Defender exclusion, firewall whitelisting, and third-party antivirus protection guide."
                    ],
     "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
