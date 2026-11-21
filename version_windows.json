@@ -1,20 +1,21 @@
 {
-  "platform": "windows",
-  "version": "1.0.0",
-  "build_number": 1,
-  "windows_build_number": 1,
-  "release_date": "November 2026",
-  "title": "UNIQON Restaurant POS • Windows Desktop Release v1.0.0",
-  "highlights": [
-    "High-speed Restaurant POS billing for Dine-In, Takeaway, and Counter orders.",
-    "Integrated 80mm & 58mm TVS Thermal Printer support with Direct Silent Printing.",
-    "Dynamic UPI QR code generation on bill slips for instant Google Pay / PhonePe payments.",
-    "Smart Global Search across all menu categories with Item Code (#101) & Dish Name instant lookup.",
-    "Tamil & English bilingual dish receipts with offline auto-translation.",
-    "Offline SQLite database with automatic daily closing backup protection.",
-    "Secure Node-Lock machine hardware licensing."
-  ],
-  "download_url": "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
-  "exe_download_url": "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
-  "is_mandatory": false
+    "exe_download_url":  "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_FINAL_Setup.exe",
+    "build_number":  1,
+    "platform":  "windows",
+    "version":  "1.0.0",
+    "release_date":  "November 2026 (Final Release)",
+    "download_url":  "https://github.com/uniqoncomputers/uniqon-restaurant-pos-releases/releases/download/v1.0.0/UNIQON_Restaurant_POS_v1.0.0_Setup.exe",
+    "highlights":  [
+                       "Swiggy \u0026 Zomato Online Delivery partner orders with Online Order ID tracking.",
+                       "Mouse Right-Click item quantity decrement (-1) and instant cart management.",
+                       "Day-End Closing (Z-Report) date picker and historical sales calendar navigation.",
+                       "Thermal Z-Slip and Excel (CSV) export for any past date.",
+                       "Motherboard-locked persistent offline hardware licensing (survives OS formats).",
+                       "TVS, Epson, Honeywell ESC/POS 80mm \u0026 58mm direct silent thermal printing.",
+                       "Dynamic UPI QR code generation on bill slips for instant Google Pay / PhonePe payments.",
+                       "Smart Global Search across all categories with item code and bilingual Tamil support."
+                   ],
+    "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
+    "windows_build_number":  1,
+    "is_mandatory":  false
 }
