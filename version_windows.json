@@ -18,6 +18,10 @@
                        "Instant Payment Mode Switcher in Bills (F9) to re-tag table orders to UPI or Card without reprinting.",
                        "Interactive Bill-by-Bill Breakdown tab in Day-End Z-Report with Cash/UPI/Card filtering.",
                        "Full itemized dish audit breakdown in Day-End Excel (CSV) export.",
+                       "Auditor-ready GST Sales Audit Breakdown (Taxable, CGST 2.5%, SGST 2.5%, Total GST).",
+                       "Dynamic USERPROFILE desktop resolution for seamless Excel export across all Windows PCs.",
+                       "Smart License Auto-Preservation during Database Restore.",
+                       "Bundled Microsoft Visual C++ Runtime 64-bit DLLs eliminating VCRUNTIME140.dll missing errors.",
                        "Automatic Windows Defender exclusion, firewall whitelisting, and third-party antivirus protection guide."
                    ],
     "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
