@@ -15,6 +15,7 @@
                        "Motherboard-locked persistent offline hardware licensing (survives OS formats).",
                        "Calibrated 80mm thermal receipt printing for TVS RP 3230, eliminating cutoff and balancing margins with Dynamic UPI QR code.",
                        "Flawless Tamil script thermal printing with HarfBuzz ligature rendering (டி, ரை, முழு, ணி).",
+                       "Instant Payment Mode Switcher in Bills (F9) to re-tag table orders to UPI or Card without reprinting.",
                        "Automatic Windows Defender exclusion, firewall whitelisting, and third-party antivirus protection guide."
                    ],
     "title":  "UNIQON Restaurant POS • Final Production Release v1.0.0",
